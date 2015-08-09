@@ -1,0 +1,46 @@
+8
+
+dir
+703
+file:///home/plsang/server/svnrepos/mkl_med/mkl
+file:///home/plsang/server/svnrepos
+
+
+
+2011-12-08T07:59:06.922227Z
+618
+plsang
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+87f6fdfc-ac8e-4ba6-8b8b-1e63dce18fc7
+
+GMKL
+dir
+
+libsvm
+dir
+
+learnGmklSvm.m
+file
+
+
+
+
+2011-12-08T07:59:17.000000Z
+684bf2c7f7ed8dd25990292947668ed7
+2011-12-08T07:59:06.922227Z
+618
+plsang
+

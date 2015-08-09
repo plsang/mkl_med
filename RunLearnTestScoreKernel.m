@@ -1,0 +1,1 @@
+clear allLearnKernelTestKernelConvertScore
